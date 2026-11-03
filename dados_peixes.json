@@ -4,15 +4,69 @@
     "nome_cientifico": "Cyprinus carpio",
     "habitat": "Água doce",
     "tamanho": "Mais de 1 metro",
-    "peso": "Dezenas de quilos",
-    "imagem": "imagens/carpa.jpg"
+    "peso": "Dezenas de quilos"
+  },
+  {
+    "nome_popular": "Peixe telescópio",
+    "nome_cientifico": "Carassius auratus",
+    "habitat": "Água doce",
+    "tamanho": "10 cm a 20 cm",
+    "peso": "Não informado"
+  },
+  {
+    "nome_popular": "Guppy",
+    "nome_cientifico": "Poecilia reticulata",
+    "habitat": "Água doce",
+    "tamanho": "2,5 cm a 6,5 cm",
+    "peso": "Não informado"
   },
   {
     "nome_popular": "Peixe-palhaço",
     "nome_cientifico": "Amphiprion",
     "habitat": "Marinho",
     "tamanho": "7 cm a 15 cm",
-    "peso": "50 g a 150 g",
-    "imagem": "imagens/palhaco.jpg"
+    "peso": "50 g a 150 g"
+  },
+  {
+    "nome_popular": "Acará-bandeira",
+    "nome_cientifico": "Pterophyllum scalare",
+    "habitat": "Água doce (Bacia Amazônica)",
+    "tamanho": "10 cm a 15 cm",
+    "peso": "Não informado"
+  },
+  {
+    "nome_popular": "Peixe-leão",
+    "nome_cientifico": "Pterois",
+    "habitat": "Marinho",
+    "tamanho": "25 cm a 35 cm",
+    "peso": "Não informado"
+  },
+  {
+    "nome_popular": "Peixe neon",
+    "nome_cientifico": "Paracheirodon innesi",
+    "habitat": "Água doce (Bacia Amazônica)",
+    "tamanho": "3 cm a 4 cm",
+    "peso": "Não informado"
+  },
+  {
+    "nome_popular": "Peixe molinésia",
+    "nome_cientifico": "Poecilia sphenops",
+    "habitat": "Água doce, salobra e costeiras",
+    "tamanho": "4 cm a 15 cm",
+    "peso": "Não informado"
+  },
+  {
+    "nome_popular": "Peixe Royal Gramma",
+    "nome_cientifico": "Gramma loreto",
+    "habitat": "Marinho (Mar do Caribe)",
+    "tamanho": "5 cm a 8 cm",
+    "peso": "Não informado"
+  },
+  {
+    "nome_popular": "Cirurgião-patela",
+    "nome_cientifico": "Paracanthurus hepatus",
+    "habitat": "Marinho (Indo-Pacífico)",
+    "tamanho": "25 cm a 31 cm",
+    "peso": "Não informado"
   }
 ]
