@@ -4,13 +4,15 @@
     "nome_cientifico": "Cyprinus carpio",
     "habitat": "Água doce",
     "tamanho": "Mais de 1 metro",
-    "peso": "Dezenas de quilos"
+    "peso": "Dezenas de quilos",
+    "imagem": "imagens/carpa.jpg"
   },
   {
     "nome_popular": "Peixe-palhaço",
     "nome_cientifico": "Amphiprion",
     "habitat": "Marinho",
     "tamanho": "7 cm a 15 cm",
-    "peso": "50 g a 150 g"
+    "peso": "50 g a 150 g",
+    "imagem": "imagens/palhaco.jpg"
   }
 ]
